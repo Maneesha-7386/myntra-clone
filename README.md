@@ -1,16 +1,42 @@
-# React + Vite
+# Myntra Clone - React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-fidelity, pixel-perfect clone of the Myntra e-commerce platform built using React.js and modern web technologies.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[Live Project Link](https://gilded-croquembouche-4e9bfa.netlify.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend**: React.js (v19)
+- **State Management**: Redux Toolkit
+- **Styling**: Tailwind CSS
+- **Routing**: React Router DOM (v7)
+- **Build Tool**: Vite
+- **API**: MockAPI.io
 
-## React Compiler
+## ✨ Features
+- **Responsive Navbar**: With a multi-column Mega Menu.
+- **Product Listing**: Dynamic grid with filtering and sorting capabilities.
+- **Shopping Bag**: Fully functional cart with real-time price calculations.
+- **Wishlist**: Save favorite items for later.
+- **User Authentication**: Login/Signup flows.
+- **Mobile Responsive**: Optimised for all device sizes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Installation & Setup
 
-## Expanding the ESLint configuration
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Maneesha-7386/Myntra-clone.git
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+---
+Built with ❤️ by Maneesha.
