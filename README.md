@@ -1,6 +1,6 @@
-# 🛍️ Myntra Clone – Full-Stack E-Commerce Web App
+# 🛍️ Myntra Clone – Frontend E-Commerce Web App
 
-A feature-rich **Myntra Clone** built with **React.js**, replicating the core shopping experience of India's leading fashion e-commerce platform. This project demonstrates modern frontend development practices including component-based architecture, state management, routing, and responsive design.
+A feature-rich **Myntra Clone** built with **React.js**, replicating the core shopping experience of India's leading fashion e-commerce platform. This is a **frontend-only** project demonstrating modern frontend development practices including component-based architecture, state management, routing, and responsive design.
 
 ## 🌐 Live Demo
 
