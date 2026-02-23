@@ -1,6 +1,6 @@
 # 🛍️ Myntra Clone – Frontend E-Commerce Web App
 
-A feature-rich **Myntra Clone** built with **React.js**, replicating the core shopping experience of India's leading fashion e-commerce platform. This is a **frontend-only** project demonstrating modern frontend development practices including component-based architecture, state management, routing, and responsive design.
+A feature-rich **Myntra Clone** built with **React.js**, replicating the core shopping experience of India's leading fashion e-commerce platform. This is a **frontend-only** project built to practice and demonstrate modern React development skills including component-based architecture, Redux state management, client-side routing, and responsive UI design.
 
 ## 🌐 Live Demo
 
@@ -34,7 +34,7 @@ A feature-rich **Myntra Clone** built with **React.js**, replicating the core sh
 | **Redux Toolkit** | Global state management (cart, wishlist, auth, orders, filters) |
 | **React Router v7** | Client-side routing and navigation |
 | **Tailwind CSS** | Utility-first CSS framework for styling |
-| **Axios** | HTTP client for API requests |
+| **Axios** | Fetching product data from public APIs |
 | **Lucide React & React Icons** | Icon libraries |
 | **React Slick** | Carousel/slider component |
 
@@ -46,7 +46,7 @@ A feature-rich **Myntra Clone** built with **React.js**, replicating the core sh
 myntra-clone/
 ├── public/
 ├── src/
-│   ├── api/             # API service layer
+│   ├── api/             # Axios fetch calls for product data
 │   ├── assets/           # Images and static assets
 │   ├── components/       # Reusable UI components
 │   │   ├── Banner/       # Banner components
